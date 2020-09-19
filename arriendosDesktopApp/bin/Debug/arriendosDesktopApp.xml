@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+arriendosDesktopApp
+</name>
+</assembly>
+<members>
+<member name="T:arriendosDesktopApp.dsArriendos.ApartamentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arriendosDesktopApp.dsArriendos.UsuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arriendosDesktopApp.dsArriendos.InquilinosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arriendosDesktopApp.dsArriendos.CodeudorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:arriendosDesktopApp.dsArriendos.ApartamentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arriendosDesktopApp.dsArriendos.UsuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arriendosDesktopApp.dsArriendos.InquilinosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arriendosDesktopApp.dsArriendos.CodeudorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:arriendosDesktopApp.dsArriendos.ApartamentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arriendosDesktopApp.dsArriendos.UsuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arriendosDesktopApp.dsArriendos.InquilinosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arriendosDesktopApp.dsArriendos.CodeudorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:arriendosDesktopApp.dsArriendos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:arriendosDesktopApp.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:arriendosDesktopApp.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:arriendosDesktopApp.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
